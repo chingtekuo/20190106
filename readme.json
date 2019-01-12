@@ -1,9 +1,6 @@
 {
     "name": "flare",
     "children": [
-     {
-      "name": "台北市",
-      "children": [
        {
         "name": "信義區",
         "children": [
@@ -87,6 +84,4 @@
         ]
        }
       ]
-     }
-    ]
    }
